@@ -20,3 +20,5 @@ Doctors and appointments and the reports. Also admin can accept job request too.
 7-Import the file 'hms.sql' inside your newly created database and click ok.
 8-Open a new tab and type 'localhost/foldername' in the url of your browser
 9-Hurray! That's it!
+
+Youtube Demo :https://youtu.be/PHREIVU9Vdo
